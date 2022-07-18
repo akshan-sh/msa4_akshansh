@@ -1,0 +1,15 @@
+[INFO ] 2022-07-18 17:43:10.227 [main] StepDefinition - Driver is initialized
+[INFO ] 2022-07-18 17:43:41.046 [main] StepDefinition - navigated to gillette homepage
+[INFO ] 2022-07-18 17:43:51.559 [main] StepDefinition - clicked on MACH3 under the Products dropdown menu on homepage
+[INFO ] 2022-07-18 17:43:51.745 [main] StepDefinition - Verifying Gillete MACH3 Turbo text on the MACH3 page
+[TRACE] 2022-07-18 17:43:51.749 [main] StepDefinition - Gillete MACH3 Turbo is present on the Mach3 page
+[INFO ] 2022-07-18 17:43:52.616 [main] StepDefinition - quitting the browser window
+[INFO ] 2022-07-18 17:43:56.113 [main] StepDefinition - Driver is initialized
+[INFO ] 2022-07-18 17:44:11.889 [main] StepDefinition - navigated to gillette homepage
+[INFO ] 2022-07-18 17:44:14.365 [main] StepDefinition - Searching for Razor on the homepage
+[INFO ] 2022-07-18 17:44:14.497 [main] StepDefinition - Verifying if Results For Razor text is present on the search results page
+[TRACE] 2022-07-18 17:44:14.497 [main] StepDefinition - Results For Razor text is present on the Styling page
+[INFO ] 2022-07-18 17:44:15.301 [main] StepDefinition - quitting the browser window
+[INFO ] 2022-07-18 17:44:18.294 [main] StepDefinition - Driver is initialized
+[INFO ] 2022-07-18 17:44:43.957 [main] StepDefinition - navigated to gillette homepage
+[INFO ] 2022-07-18 17:44:44.396 [main] StepDefinition - clicking on Styling under Learn list of footer section

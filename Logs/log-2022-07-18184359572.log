@@ -1,0 +1,15 @@
+[INFO ] 2022-07-18 18:44:06.029 [main] Logging - Driver is initialized
+[INFO ] 2022-07-18 18:44:36.151 [main] Logging - navigated to gillette homepage
+[INFO ] 2022-07-18 18:44:51.871 [main] Logging - clicked on MACH3 under the Products dropdown menu on homepage
+[INFO ] 2022-07-18 18:44:52.000 [main] Logging - Verifying Gillete MACH3 Turbo text on the MACH3 page
+[TRACE] 2022-07-18 18:44:52.005 [main] Logging - Gillete MACH3 Turbo is present on the Mach3 page
+[INFO ] 2022-07-18 18:44:52.358 [main] Logging - quitting the browser window
+[INFO ] 2022-07-18 18:44:54.186 [main] Logging - Driver is initialized
+[INFO ] 2022-07-18 18:45:24.956 [main] Logging - navigated to gillette homepage
+[INFO ] 2022-07-18 18:45:27.317 [main] Logging - Searching for Razor on the homepage
+[INFO ] 2022-07-18 18:45:27.362 [main] Logging - Verifying if Results For Razor text is present on the search results page
+[TRACE] 2022-07-18 18:45:27.362 [main] Logging - Results For Razor text is present on the Styling page
+[INFO ] 2022-07-18 18:45:27.579 [main] Logging - quitting the browser window
+[INFO ] 2022-07-18 18:45:28.506 [main] Logging - Driver is initialized
+[INFO ] 2022-07-18 18:45:53.708 [main] Logging - navigated to gillette homepage
+[INFO ] 2022-07-18 18:46:01.679 [main] Logging - clicking on Styling under Learn list of footer section
